@@ -2,7 +2,7 @@
 #first we have to create an empty file using touch command
 touch animals.txt
 #next, enter the content to the file
-cat > animal.txt
+cat > animalis.txt
 #view the contet that we enter into the file 
 echo  The content are 
 cat animal.txt
